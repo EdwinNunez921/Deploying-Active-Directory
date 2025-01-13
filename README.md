@@ -5,6 +5,9 @@
 <h1>Deploying Active Directory (Azure)</h1>
 This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.<br />
 
+<h2>Video Demonstration</h2>
+
+- ### [YouTube: osTicket - Deploying-Active-Directory](https://youtu.be/Pysvd4Zpado)
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
